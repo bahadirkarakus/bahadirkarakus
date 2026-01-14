@@ -26,8 +26,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahadirkarakus&show_icons=true&theme=radical)
 
 ---
 
-⭐️ From [Bahadır Karakuş](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Bahadır Karakuş](https://github.com/bahadirkarakus)
