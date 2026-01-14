@@ -27,14 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=bahadirkarakus&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bahadirkarakus&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirkarakus&layout=compact&theme=radical)
-
 ---
 
 ⭐️ From [Bahadır Karakuş](https://github.com/bahadirkarakus)
