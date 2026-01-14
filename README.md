@@ -8,8 +8,11 @@
 
 ## Languages I Speak
 
-🇹🇷 Turkish (Native)  
-🇬🇧 English
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f9-1f1f7.svg" width="30" height="30" alt="Turkish Flag"> <strong>Turkish</strong> (Native)
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg" width="30" height="30" alt="English Flag"> <strong>English</strong>
+</p>
 
 ## Connect With Me
 
