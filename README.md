@@ -29,8 +29,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/bahadirkarakus?style=for-the-badge&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/bahadirkarakus?style=for-the-badge&logo=github&label=Stars)
+<p align="center"> 
+  <a href="https://github.com/bahadirkarakus">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bahadirkarakus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bahadirkarakus&layout=compact&langs_count=8&theme=algolia"/>
+  </a> 
+</p>
 
 ---
 
